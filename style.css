@@ -1,3 +1,8 @@
 body{
     color:aqua;
 }
+
+p{
+    color:brown;
+    font-size: 30px;
+}
